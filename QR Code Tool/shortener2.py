@@ -2,7 +2,7 @@ import bitly_api
 import csv
 import time
 
-BITLY_ACCESS_TOKEN = '3feb0fcd690fa99ba826cf9fbac62a54190c7343'
+BITLY_ACCESS_TOKEN = 'ACCESS_TOKEN'
 long_links = []
 shorty_links = []
 names = []

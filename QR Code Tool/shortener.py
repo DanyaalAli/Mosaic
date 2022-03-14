@@ -1,7 +1,7 @@
 import bitly_api
 import csv
 
-BITLY_ACCESS_TOKEN = 'bf3959b97799d614e13a15c408d819f0edd4e2d4'
+BITLY_ACCESS_TOKEN = 'ACCESS_TOKEN'
 long_links = []
 shorty_links = []
 names = []
